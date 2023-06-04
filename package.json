@@ -18,7 +18,7 @@
     "react-scripts": "5.0.1",
     "styled-components": "^5.3.11",
     "web-vitals": "^2.1.4",
-    "homepage": "https://github.com/longocthien/tesla-clone"
+    "homepage": "https://longocthien.github.io/tesla-clone"
   },
   "scripts": {
     "start": "react-scripts start",
